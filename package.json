@@ -1,0 +1,34 @@
+{
+  "name": "clicky",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "Jungle-Click-Game"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://lahughesmusic.github.io/Jungle-Click-Game.git"
+  },
+  "bugs": {
+    "url": "https://lahughesmusic.github.io/Jungle-Click-Game/issues"
+  },
+  "homepage": "https://lahughesmusic.github.io/Jungle-Click-Game"
+}

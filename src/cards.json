@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Kaa",
+    "image": "./images/Kaa.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Bagueera",
+    "image": "./images/Baggy.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Akela",
+    "image": "./images/Akela.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Baloo",
+    "image": "./images/Baloo2.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Raksha",
+    "image": "./images/Raksha.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Mowgli",
+    "image": "./images/Mowgli.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Shere Khan",
+    "image": "./images/Sher_Khan.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "King Louie",
+    "image": "./images/King_Louis.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Colonel Hathi",
+    "image": "./images/Colonel_Haiti.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Hathi Jr.",
+    "image": "./images/Baby_Haiti.png",
+    "count": 0
+  }
+]
